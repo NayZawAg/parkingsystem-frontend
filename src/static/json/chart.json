@@ -1,0 +1,290 @@
+[
+  {
+    "time": "1:00",
+    "congestion_rate": 50.0,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "2:00",
+    "congestion_rate":10,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "3:00",
+    "congestion_rate": 30,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "4:00",
+    "congestion_rate":40,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "5:00",
+    "congestion_rate": 50,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "6:00",
+    "congestion_rate": 60,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "7:00",
+    "congestion_rate":40,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "8:00",
+    "congestion_rate": 20,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "9:00",
+    "congestion_rate": 30,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "10:00",
+    "congestion_rate":10,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "11:00",
+    "congestion_rate": 40,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "12:00",
+    "congestion_rate": 55,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "13:00",
+    "congestion_rate": 66,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "14:00",
+    "congestion_rate": 77,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "15:00",
+    "congestion_rate":22,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "16:00",
+    "congestion_rate": 23,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "17:00",
+    "congestion_rate": 22,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "18:00",
+    "congestion_rate": 66,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "19:00",
+    "congestion_rate": 77,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "20:00",
+    "congestion_rate": 88,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "21:00",
+    "congestion_rate": 99,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "22:00",
+    "congestion_rate": 77,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "23:00",
+    "congestion_rate":70,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "24:00",
+    "congestion_rate": 66,
+    "holiday_flag": true,
+    "business_day_flag": false
+  },
+  {
+    "time": "1:00",
+    "congestion_rate": 77,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "2:00",
+    "congestion_rate": 88,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "3:00",
+    "congestion_rate": true,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "4:00",
+    "congestion_rate": 77,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "5:00",
+    "congestion_rate": 88,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "6:00",
+    "congestion_rate": 55,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "7:00",
+    "congestion_rate": 77,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "8:00",
+    "congestion_rate": 33,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "9:00",
+    "congestion_rate": 12,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "10:00",
+    "congestion_rate": 77,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "11:00",
+    "congestion_rate": 88,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "12:00",
+    "congestion_rate": 99,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "13:00",
+    "congestion_rate": 99,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "14:00",
+    "congestion_rate": 12,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "15:00",
+    "congestion_rate": 44.00,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "16:00",
+    "congestion_rate": 55,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "17:00",
+    "congestion_rate": 77,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "18:00",
+    "congestion_rate": 88,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "19:00",
+    "congestion_rate": 66,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "20:00",
+    "congestion_rate": 88,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "21:00",
+    "congestion_rate": 99,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "22:00",
+    "congestion_rate": 55,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "23:00",
+    "congestion_rate": 66,
+    "holiday_flag": false,
+    "business_day_flag": true
+  },
+  {
+    "time": "24:00",
+    "congestion_rate": 66,
+    "holiday_flag": false,
+    "business_day_flag": true
+  }
+]
