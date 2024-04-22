@@ -1,0 +1,6 @@
+{
+  "extends": "plugin:nuxt/recommended",
+  "rules": {
+    "indent": ["error", 2]
+  }
+}
